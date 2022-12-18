@@ -2,4 +2,4 @@
 **สร้าง vm and ct on Proxmox cluster**
 * create master vm (ubuntu-22.04)
       
-      sudo
+      
