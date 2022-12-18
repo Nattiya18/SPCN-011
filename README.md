@@ -17,8 +17,25 @@
 
 คลิกขวาที่ VM และเลือก Convert to template
 
+![image](https://user-images.githubusercontent.com/119166253/208310097-3fee5812-bafc-42c1-8456-994810aa7063.png)
+
+
+จะได้ตัว VM เป็นแบบ template
+
+![image](https://user-images.githubusercontent.com/119166253/208309664-6f7672d5-cf3b-496b-976d-6f0b6893a269.png)
+
+* clone from template สร้าง vm ใหม่จำนวน 2 ตัว
+
+คลิกขวาที่ template และเลือก clone
+
+![image](https://user-images.githubusercontent.com/119166253/208309836-d76f2a7f-5eae-47af-803e-fc610b28b925.png)
+
 ตั้งชื่อ VM ที่เรา clone ออกมาทั้ง 2 ตัว
+
 ![image](https://user-images.githubusercontent.com/119166253/208308541-1be64b92-d354-43ea-bac7-f252cbd5f90a.png)
+
+**คำสั่งในการ change host name**
+      sudo hostnamectl set-hostname [ชื่อที่ต้องการเปลี่ยน]
 
 
 
